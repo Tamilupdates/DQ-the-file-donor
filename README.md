@@ -1,6 +1,6 @@
 ## Deploy on Heroku
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Tamilupdates/VJ-FILTER-BOT)
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Tamilupdates/DQ-the-file-donor)
 
 
 ## 𝐹𝑒𝑎𝑡𝑢𝑟𝑒𝑠
